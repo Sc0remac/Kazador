@@ -1,4 +1,4 @@
-# Kazador Agent Guide
+# Kazador Overview GUide
 
 This document captures the complete shape of the Kazador monorepo so future contributors (human or AI) can quickly understand what exists today. It summarises every major directory, feature, integration, and supporting asset in the repository.
 
